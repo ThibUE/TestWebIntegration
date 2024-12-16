@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "1.1",
+	"FriendlyName": "DTMultiWindow",
+	"Description": "UMG Multi Window / UE5.1",
+	"Category": "DT",
+	"CreatedBy": "Dexter Wan",
+	"CreatedByURL": "45141961@qq.com",
+	"DocsURL": "https://www.unrealengine.com/marketplace/slug/b30764d187654a129d9bf6c304d804e7",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b30764d187654a129d9bf6c304d804e7",
+	"SupportURL": "https://dt.cq.cn/",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DTMultiWindow",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "DTMultiWindowEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}

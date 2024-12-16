@@ -1,0 +1,145 @@
+{
+    "coord": {
+        "Entrée extérieure": {
+            "x": 3,
+            "y": 165
+        },
+        "Entrée intérieure": {
+            "x": 93,
+            "y": 164
+        },
+        "Espace figurines": {
+            "x": 730,
+            "y": 370
+        },
+        "Espace épicerie": {
+            "x": 681,
+            "y": 189
+        },
+        "Le salon de thé 1": {
+            "x": 273,
+            "y": 285
+        },
+        "Le salon de thé 2": {
+            "x": 506,
+            "y": 259
+        }
+    },
+    "default": {
+        "lang": "fr",
+        "loc": "",
+        "locnum": "0"
+    },
+    "lang": {
+        "en": {
+            "area": [
+                "Outside entrance",
+                "Inside entrance",
+                "Tea room 1",
+                "Tea room 2",
+                "Groceries area",
+                "Figurines area"
+            ],
+            "loc": {
+                "Entrée extérieure": {
+                    "name": "Outside entrance"
+                },
+                "Entrée intérieure": {
+                    "name": "Inside entrance"
+                },
+                "Espace figurines": {
+                    "name": "Figurines area"
+                },
+                "Espace épicerie": {
+                    "name": "Groceries area"
+                },
+                "Le salon de thé 1": {
+                    "name": "Tea room 1"
+                },
+                "Le salon de thé 2": {
+                    "name": "Tea room 2"
+                }
+            },
+            "pos": [
+                "Your position :"
+            ]
+        },
+        "fr": {
+            "area": [
+                "Entrée extérieure",
+                "Entrée intérieure",
+                "Le salon de thé 1",
+                "Le salon de thé 2",
+                "Espace épicerie",
+                "Espace figurines"
+            ],
+            "loc": {
+                "Entrée extérieure": {
+                    "name": "Entrée extérieure"
+                },
+                "Entrée intérieure": {
+                    "name": "Entrée intérieure"
+                },
+                "Espace figurines": {
+                    "name": "Espace figurines"
+                },
+                "Espace épicerie": {
+                    "name": "Espace épicerie"
+                },
+                "Le salon de thé 1": {
+                    "name": "Le salon de thé 1"
+                },
+                "Le salon de thé 2": {
+                    "name": "Le salon de thé 2"
+                }
+            },
+            "pos": [
+                "Votre position :"
+            ]
+        }
+    },
+    "legend": {
+        "0": {
+            "color": "#bc012c",
+            "title": "Vue extérieure",
+            "type": "section"
+        },
+        "1": {
+            "num": 0,
+            "type": "item"
+        },
+        "2": {
+            "color": "#bc012c",
+            "title": "Vue intérieure",
+            "type": "section"
+        },
+        "3": {
+            "num": 1,
+            "type": "item"
+        },
+        "4": {
+            "num": 2,
+            "type": "item"
+        },
+        "5": {
+            "num": 3,
+            "type": "item"
+        },
+        "6": {
+            "num": 4,
+            "type": "item"
+        },
+        "7": {
+            "num": 5,
+            "type": "item"
+        }
+    },
+    "num": {
+        "0": "Entrée extérieure",
+        "1": "Entrée intérieure",
+        "2": "Le salon de thé 1",
+        "3": "Le salon de thé 2",
+        "4": "Espace épicerie",
+        "5": "Espace figurines"
+    }
+}
