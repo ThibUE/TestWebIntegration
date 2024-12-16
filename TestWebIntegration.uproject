@@ -45,7 +45,7 @@
 		},
 		{
 			"Name": "Landscaping",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1150fad0ef4e4a75be5743c2c68237d3"
 		},
 		{
@@ -88,6 +88,11 @@
 			"Name": "ImportModelRuntime",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3c3bf57565574c70afe608ae20e23393"
+		},
+		{
+			"Name": "PSD2UMG",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1161474e899d45bba4d42ba5874e6fbc"
 		}
 	],
 	"TargetPlatforms": [

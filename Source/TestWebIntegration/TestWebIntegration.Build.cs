@@ -8,7 +8,7 @@ public class TestWebIntegration : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Json", "JsonUtilities","VorbisAudioDecoder" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Json", "JsonUtilities"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
