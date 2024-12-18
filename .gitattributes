@@ -1,1 +1,7 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+Content/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_02.uasset filter=lfs diff=lfs merge=lfs -text
+Content/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_03.uasset filter=lfs diff=lfs merge=lfs -text
+Content/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_04.uasset filter=lfs diff=lfs merge=lfs -text
+Content/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_02_PP.uasset filter=lfs diff=lfs merge=lfs -text
+Content/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_02.uasset filter=lfs diff=lfs merge=lfs -text
+Content/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_01.uasset filter=lfs diff=lfs merge=lfs -text
