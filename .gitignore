@@ -88,8 +88,7 @@ riderProjects/
 # ------------------------------
 # Unreal Engine Cache Files
 # ------------------------------
-*.uasset
-*.umap
+
 *.uproject.user
 *.rcc
 *.rcc*
